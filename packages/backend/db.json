@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Richard", "email": "richard@example.com" },
+    { "id": 2, "name": "Ellen", "email": "ellen@example.com" }
+  ],
+  "orders": [
+    { "id": 1, "product": "Pizza", "quantity": 2, "userId": 1 },
+    { "id": 2, "product": "Burger", "quantity": 1, "userId": 2 }
+  ]
+}
